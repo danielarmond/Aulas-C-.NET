@@ -1,0 +1,15 @@
+C:\C# NET\AulaPropriedades\AulaPropriedades\bin\Debug\net7.0\AulaPropriedades.exe
+C:\C# NET\AulaPropriedades\AulaPropriedades\bin\Debug\net7.0\AulaPropriedades.deps.json
+C:\C# NET\AulaPropriedades\AulaPropriedades\bin\Debug\net7.0\AulaPropriedades.runtimeconfig.json
+C:\C# NET\AulaPropriedades\AulaPropriedades\bin\Debug\net7.0\AulaPropriedades.dll
+C:\C# NET\AulaPropriedades\AulaPropriedades\bin\Debug\net7.0\AulaPropriedades.pdb
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.csproj.AssemblyReference.cache
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.AssemblyInfoInputs.cache
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.AssemblyInfo.cs
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.csproj.CoreCompileInputs.cache
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.dll
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\refint\AulaPropriedades.dll
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.pdb
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\AulaPropriedades.genruntimeconfig.cache
+C:\C# NET\AulaPropriedades\AulaPropriedades\obj\Debug\net7.0\ref\AulaPropriedades.dll
