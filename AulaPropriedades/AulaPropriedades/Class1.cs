@@ -7,7 +7,7 @@ namespace AulaPropriedades
     {
         private string _nome;
         private double _preco;
-        private int _quantidade;
+        public int Quantidade { get; private set; }
 
         public Produto()
         {
@@ -17,7 +17,7 @@ namespace AulaPropriedades
         {
             _nome = nome;
             _preco = preco;
-            _quantidade = quantidade;
+            Quantidade = quantidade;
         }
 
         public string Nome
@@ -35,11 +35,7 @@ namespace AulaPropriedades
         public double Preco {
             get { return _preco; }
                 }
-
-        public int Quantidade
-        {
-            get { return _quantidade; }
-        }
+                
     }
 
    

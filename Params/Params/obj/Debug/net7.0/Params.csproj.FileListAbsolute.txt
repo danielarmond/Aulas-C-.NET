@@ -1,0 +1,15 @@
+C:\C# NET\Params\Params\bin\Debug\net7.0\Params.exe
+C:\C# NET\Params\Params\bin\Debug\net7.0\Params.deps.json
+C:\C# NET\Params\Params\bin\Debug\net7.0\Params.runtimeconfig.json
+C:\C# NET\Params\Params\bin\Debug\net7.0\Params.dll
+C:\C# NET\Params\Params\bin\Debug\net7.0\Params.pdb
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.csproj.AssemblyReference.cache
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.AssemblyInfoInputs.cache
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.AssemblyInfo.cs
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.csproj.CoreCompileInputs.cache
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.dll
+C:\C# NET\Params\Params\obj\Debug\net7.0\refint\Params.dll
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.pdb
+C:\C# NET\Params\Params\obj\Debug\net7.0\Params.genruntimeconfig.cache
+C:\C# NET\Params\Params\obj\Debug\net7.0\ref\Params.dll
