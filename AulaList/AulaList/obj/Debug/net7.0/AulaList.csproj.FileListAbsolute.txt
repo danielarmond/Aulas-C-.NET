@@ -1,0 +1,15 @@
+C:\C# NET\AulaList\AulaList\bin\Debug\net7.0\AulaList.exe
+C:\C# NET\AulaList\AulaList\bin\Debug\net7.0\AulaList.deps.json
+C:\C# NET\AulaList\AulaList\bin\Debug\net7.0\AulaList.runtimeconfig.json
+C:\C# NET\AulaList\AulaList\bin\Debug\net7.0\AulaList.dll
+C:\C# NET\AulaList\AulaList\bin\Debug\net7.0\AulaList.pdb
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.csproj.AssemblyReference.cache
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.AssemblyInfoInputs.cache
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.AssemblyInfo.cs
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.csproj.CoreCompileInputs.cache
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.dll
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\refint\AulaList.dll
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.pdb
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\AulaList.genruntimeconfig.cache
+C:\C# NET\AulaList\AulaList\obj\Debug\net7.0\ref\AulaList.dll
